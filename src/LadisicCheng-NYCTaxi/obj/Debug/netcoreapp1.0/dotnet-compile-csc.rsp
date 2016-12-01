@@ -174,3 +174,6 @@
 "C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Program.cs"
 "C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Startup.cs"
 "C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Controllers\ValuesController.cs"
+"C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Models\TaxiTrip.cs"
+"C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Repositories\ITaxiTripRepository.cs"
+"C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Repositories\TaxiTripRepository.cs"

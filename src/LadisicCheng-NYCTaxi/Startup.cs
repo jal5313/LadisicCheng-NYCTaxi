@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using LadisicCheng_NYCTaxi.Models;
 
 namespace LadisicCheng_NYCTaxi
 {
@@ -38,6 +39,8 @@ namespace LadisicCheng_NYCTaxi
             services.AddApplicationInsightsTelemetry(Configuration);
 
             services.AddMvc();
+
+            services.AddSingleton<ITaxiTripRepository, TaxiTripRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline

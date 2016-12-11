@@ -173,6 +173,7 @@
 -resource:"C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\obj\Debug\netcoreapp1.0\LadisicCheng-NYCTaxidotnet-compile.deps.json",LadisicCheng-NYCTaxi.deps.json
 "C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Program.cs"
 "C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Startup.cs"
+"C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Controllers\TaxiTripController.cs"
 "C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Controllers\ValuesController.cs"
 "C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Models\TaxiTrip.cs"
 "C:\Users\Josh\Documents\Visual Studio 2015\Projects\LadisicCheng-NYCTaxi\LadisicCheng-NYCTaxi\src\LadisicCheng-NYCTaxi\Repositories\ITaxiTripRepository.cs"
